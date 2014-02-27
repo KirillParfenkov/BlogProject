@@ -1,0 +1,25 @@
+{
+  "name": "BlogProject",
+  "private": true,
+  "version": "0.0.0",
+  "description": "BlogProject ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KirillParfenkov/BlogProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirillParfenkov/BlogProject/issues"
+  },
+  "homepage": "https://github.com/KirillParfenkov/BlogProject",
+  "dependencies": {
+    "mongoose": "~3.8.8",
+    "express": "~3.4.8",
+    "jade": "~1.2.0"
+  }
+}
